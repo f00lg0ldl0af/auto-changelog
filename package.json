@@ -1,0 +1,13 @@
+{
+  "name": "auto-changelog",
+  "version": "1.0.0",
+  "description": "sample changelog",
+  "main": "index.js",
+  "repository": "git@github.com:f00lg0ldl0af/auto-changelog.git",
+  "author": "f00lg0ldl0af <43835575+f00lg0ldl0af@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts":
+  {
+    "start": "node index.js"
+  }
+}
